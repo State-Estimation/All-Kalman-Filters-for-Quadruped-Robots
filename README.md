@@ -6,6 +6,6 @@ Kalman Filter(KF) , Error State Kalman Filter(ESKF), Invariant Extended Kalman F
 
 
 
-KF has two version: 1: no velocity messurement; 2: position and velocity mesurememts.
+KF has two versions: 1: no velocity messurement; 2: position and velocity mesurememts.
 
 
